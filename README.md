@@ -12,3 +12,5 @@ https://www.jenkins.io/doc/book/scaling/scaling-jenkins-on-kubernetes/
  https://www.youtube.com/watch?v=DAe2Md9sGNA
  https://www.youtube.com/watch?v=DAe2Md9sGNA
  https://www.youtube.com/watch?v=laAAzdw11dA
+ 
+ https://faun.pub/jenkins-inside-kubernetes-bdee0340e0ca
